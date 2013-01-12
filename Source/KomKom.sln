@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komkom.Model", "KomKom.Model\Komkom.Model.csproj", "{218C7C8B-6694-48F5-8881-94C4680195CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomKom.API", "KomKom.API\KomKom.API.csproj", "{D8841905-DFFC-49AE-88CD-50C6E7629550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomKom.Web", "KomKom.Web\KomKom.Web.csproj", "{0440A886-CA09-4735-AD16-8095B9954346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomKom.Data.Web", "KomKom.Data.Web\KomKom.Data.Web.csproj", "{E9B7F335-B503-4A94-BA30-D70B8945E5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomKom.Repository", "KomKom.Repository\KomKom.Repository.csproj", "{941E8EBD-C6BB-474E-9D1C-99A2B0F34237}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://coders4africa.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KomKom.Model\\Komkom.Model.csproj
+		SccProjectName1 = KomKom.Model
+		SccLocalPath1 = KomKom.Model
+		SccProjectUniqueName2 = KomKom.API\\KomKom.API.csproj
+		SccProjectName2 = KomKom.API
+		SccLocalPath2 = KomKom.API
+		SccProjectUniqueName3 = KomKom.Web\\KomKom.Web.csproj
+		SccProjectName3 = KomKom.Web
+		SccLocalPath3 = KomKom.Web
+		SccProjectUniqueName4 = KomKom.Data.Web\\KomKom.Data.Web.csproj
+		SccProjectName4 = KomKom.Data.Web
+		SccLocalPath4 = KomKom.Data.Web
+		SccProjectUniqueName5 = KomKom.Repository\\KomKom.Repository.csproj
+		SccProjectName5 = KomKom.Repository
+		SccLocalPath5 = KomKom.Repository
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218C7C8B-6694-48F5-8881-94C4680195CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218C7C8B-6694-48F5-8881-94C4680195CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218C7C8B-6694-48F5-8881-94C4680195CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218C7C8B-6694-48F5-8881-94C4680195CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8841905-DFFC-49AE-88CD-50C6E7629550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8841905-DFFC-49AE-88CD-50C6E7629550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8841905-DFFC-49AE-88CD-50C6E7629550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8841905-DFFC-49AE-88CD-50C6E7629550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0440A886-CA09-4735-AD16-8095B9954346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0440A886-CA09-4735-AD16-8095B9954346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0440A886-CA09-4735-AD16-8095B9954346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0440A886-CA09-4735-AD16-8095B9954346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B7F335-B503-4A94-BA30-D70B8945E5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B7F335-B503-4A94-BA30-D70B8945E5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B7F335-B503-4A94-BA30-D70B8945E5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B7F335-B503-4A94-BA30-D70B8945E5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941E8EBD-C6BB-474E-9D1C-99A2B0F34237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941E8EBD-C6BB-474E-9D1C-99A2B0F34237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941E8EBD-C6BB-474E-9D1C-99A2B0F34237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941E8EBD-C6BB-474E-9D1C-99A2B0F34237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
